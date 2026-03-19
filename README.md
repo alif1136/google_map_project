@@ -1,16 +1,35 @@
-# google_map_project
+# Google Map Demo App 🗺️
 
-A new Flutter project.
+## Description
+Google Map Demo App is a Flutter-based mobile application that demonstrates the integration of Google Maps in a mobile app.  
+Users can view maps, interact with markers, and explore location-based features in a clean, intuitive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- Display Google Maps in-app  
+- Add custom markers on the map  
+- Pan, zoom, and navigate the map smoothly  
+- Optional: Show user’s current location  
+- Demonstrates Google Maps API integration with Flutter  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack 🛠
+- **Flutter** – Frontend UI  
+- **Dart** – Programming language  
+- **Google Maps API** – Maps and location features  
+- **Flutter Plugins** – `google_maps_flutter` for map rendering  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots 📸
+<img width="579" height="588" alt="Google map demo" src="https://github.com/user-attachments/assets/3b98476f-3909-4e61-ae88-ebd67ee7c688" />
+
+
+---
+
+## How to Run 💻
+1. Clone the repository  
+```bash
+git clone https://github.com/alif1136/Google-Map-Demo-App.git
